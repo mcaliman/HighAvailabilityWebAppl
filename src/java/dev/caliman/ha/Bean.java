@@ -8,7 +8,7 @@ import java.util.Scanner;
 import javax.inject.Named;
 import javax.enterprise.context.SessionScoped;
 //@ManagedBean
-//@SessionScoped
+//@SessionScoped 
 @SessionScoped
 @Named
 public class Bean implements Serializable {
